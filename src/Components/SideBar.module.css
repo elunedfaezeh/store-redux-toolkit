@@ -1,0 +1,73 @@
+.SideBar {
+    background: #1A2A4A;
+    padding: 20px 60px;
+    margin: 20px;
+    border-radius: 28px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e2e8f0;
+    height: fit-content;
+}
+
+.SideBar div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color: white;
+}
+
+.SideBar p {
+    margin-left: 20px;
+}
+
+.SideBar li {
+    list-style: none;
+    padding: 9px 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    transition: 0.3s ease;
+}
+
+.selected {
+    color: black;
+    background: #2f4d88;
+    padding: 5px 17px;
+    border-radius: 10px;
+}
+
+
+/* تبلت */
+@media (max-width: 768px) {
+    .SideBar {
+        padding: 15px 25px;
+        margin: 10px;
+        border-radius: 20px;
+    }
+
+    .SideBar li {
+        font-size: 0.75rem;
+    }
+
+    .SideBar p {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .SideBar {
+        padding: 12px 15px;
+    }
+
+    .SideBar div {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .SideBar p {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+}

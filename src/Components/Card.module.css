@@ -1,0 +1,74 @@
+.card {
+    width: fit-content;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    background-color: #fff;
+    border-radius: 28px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e2e8f0;
+
+}
+
+.card img {
+    width: 160px;
+    height: 140px;
+}
+
+.card h3 {
+    font-size: 0.8rem;
+    color: #1A2A4A;
+}
+
+.card p {
+    font-style: 0.3rem;
+    color: gray;
+    margin: 10px 0 30px;
+
+}
+
+.actions {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.card span{
+    color: #e2e8f0;
+    font-weight: bold;
+}
+/* .actions a {
+    font-size: 1.5rem;
+    height: 25px;
+    color: #f35d42;
+    cursor: pointer;
+} */
+
+/* در فایل CSS */
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background: #1A2A4A;
+  padding: 10px;
+  border-radius: 28px;
+}
+
+.buttonContainer button, a{
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.actions div span {
+    width: 20px;
+    text-align: center;
+    margin: 0 10px;
+}

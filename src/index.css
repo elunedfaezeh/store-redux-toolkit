@@ -1,0 +1,28 @@
+body {
+  margin:auto;
+  background-color: #efefef;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (min-width:0px) {
+  body{
+    max-width: 375px;
+  }
+}
+
+@media screen and (min-width:768px) {
+  body{
+    max-width: 768px;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  body{
+    max-width: 1024px;
+  }
+}

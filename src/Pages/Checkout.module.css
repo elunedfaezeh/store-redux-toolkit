@@ -1,0 +1,59 @@
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 768px) {
+
+  .container {
+    flex-direction: column-reverse !important;
+  }
+
+  .products {
+    gap: 12px;
+  }
+}
+.emptyBox {
+  border-radius: 24px;
+  padding: 40px;
+  text-align: center;
+}
+
+.emptyBox span {
+  font-size: 4rem;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.emptyBox h3 {
+  color: #1a2a4f;
+    font-size: 1rem;
+
+  margin-bottom: 16px;
+}
+
+.emptyBox a {
+    background: #1a2a4f;
+    border-radius: 28px;
+    padding: 10px 20px;
+  color: #fe5d42;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
