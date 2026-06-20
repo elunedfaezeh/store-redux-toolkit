@@ -5,12 +5,12 @@
 
 ---
 
-### 🛒 Cart Page
+### 🛒 Product View
 ![Cart](./Screenshot%201405-03-30%20at%2011.29.23%20in%20the%20morning.png)
 
 ---
 
-### 📦 Product View
+### 📦Cart Page
 ![Products](./Screenshot%201405-03-30%20at%2011.29.44%20in%20the%20morning.png)
 
 # 🛒 Store Redux Toolkit
