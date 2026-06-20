@@ -1,8 +1,42 @@
-# React + Vite
+# 🛒 Store Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based Single Page Application (SPA)** for an online store.  
+The project uses **Redux Toolkit** for state management, **Axios** for API requests, and a **custom JSON Server backend** built from a local `db.json` file.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🛍️ Add products to cart  
+- ➖➕ Increase / decrease product quantity  
+- 🗑️ Remove items from cart  
+- 📦 Fetch products from custom API (db.json)  
+- 🗂️ Filter products by categories  
+- ⚡ Fully SPA (no page reload)  
+- 🔄 Real-time cart updates with Redux Toolkit  
+
+---
+
+## ⚙️ Tech Stack
+
+- React (Vite)
+- Redux Toolkit
+- Axios
+- JSON Server (Fake REST API)
+
+---
+
+## 🖥️ Backend (JSON Server)
+
+The project uses a custom API built with **JSON Server** and local JSON data.
+
+### 📁 Server Structure
+
+### ▶️ Run Backend and Frontend
+```bash
+cd server
+npx json-server --watch db.json --port 5000
+
+
+Run Frontend:
+npm run dev
