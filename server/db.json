@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Men's Genuine Leather Waist Bag",
+      "price": 450000,
+      "description": "Natural leather waist bag with 3 separate compartments and durable strap, perfect for daily use",
+      "category": "Bags & Shoes",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/917ddecd9293f1f538b139af4126314fae72fd20_1768477550.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.7, "count": 234 }
+    },
+    {
+      "id": 2,
+      "title": "AMAZFIT GTS 4 Smart Watch",
+      "price": 5899000,
+      "description": "1.75 inch AMOLED display, water resistant, up to 14 days battery life",
+      "category": "Electronics",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e4e2f2696618dbd08e863e3d4b4fe2b4f7766391_1754253502.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.9, "count": 567 }
+    },
+    {
+      "id": 3,
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "price": 12500000,
+      "description": "Advanced noise cancellation, exceptional sound quality, 30 hours battery life",
+      "category": "Electronics",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1f7bd3c78228245290869db16da997287425259a_1749133781.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.8, "count": 892 }
+    },
+    {
+      "id": 4,
+      "title": "Adidas Men's Sportswear Set",
+      "price": 2350000,
+      "description": "Sport set including tracksuit and hoodie, breathable polyester fabric",
+      "category": "Clothing",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6a80638ae6e121892d24eb1818b6946f58470f96_1767168177.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.5, "count": 345 }
+    },
+    {
+      "id": 5,
+      "title": "Babyliss Professional Hair Dryer",
+      "price": 1890000,
+      "description": "2200 watts power, negative ion technology, 3 temperature settings",
+      "category": "Home & Kitchen",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3866e75821351e6a22e2cca94ce89da60787b9d3_1755788778.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.3, "count": 178 }
+    },
+    {
+      "id": 6,
+      "title": "Maxim Turkish Coffee 500g",
+      "price": 349000,
+      "description": "Arabica Turkish coffee, strong aroma and lasting taste, vacuum packaging",
+      "category": "Food & Beverages",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6645485e648c91a60fcf2ed6e75b13ed5bc60e67_1730895740.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.6, "count": 1234 }
+    },
+    {
+      "id": 7,
+      "title": "JBL Flip 6 Bluetooth Speaker",
+      "price": 5699000,
+      "description": "Water and dust resistant, 20 watts power, 12 hour battery",
+      "category": "Electronics",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/34de922973388ec024c5acd0e318b54bc54c8c9a_1754250653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.7, "count": 456 }
+    },
+    {
+      "id": 8,
+      "title": "L'Oreal Anti-Wrinkle Face Serum",
+      "price": 785000,
+      "description": "Contains hyaluronic acid and vitamin C, reduces wrinkles",
+      "category": "Beauty & Health",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/03e162dab37f20604e2408180ea3a994db324a59_1669109170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.4, "count": 567 }
+    },
+    {
+      "id": 9,
+      "title": "Amazon Kindle E-Reader",
+      "price": 7999000,
+      "description": "6.8 inch anti-glare display, adjustable backlight",
+      "category": "Electronics",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/069a7a84cb77ed2d969d8329cf595fe9ea02613a_1732309269.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.9, "count": 234 }
+    },
+    {
+      "id": 10,
+      "title": "Nike Air Max Sneakers",
+      "price": 4590000,
+      "description": "Good ventilation, soft and flexible insole, anti-slip sole",
+      "category": "Bags & Shoes",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cd35293d045f0303e3cac907bcc456de7586a75c_1771484983.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.6, "count": 789 }
+    },
+    {
+      "id": 11,
+      "title": "Xiaomi Mi Band 8 Smart Bracelet",
+      "price": 2299000,
+      "description": "AMOLED display, heart rate and blood oxygen monitoring, 14 days battery",
+      "category": "Electronics",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fe24e46c2ed3e72590144384308cfc14e84b4605_1707326921.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.8, "count": 2145 }
+    },
+    {
+      "id": 12,
+      "title": "7-Piece Teflon Cookware Set",
+      "price": 1899000,
+      "description": "Scratch resistant, heatproof handles, suitable for all stovetops",
+      "category": "Home & Kitchen",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c931213cd99cd9679e3e1f5523c8ec9b22e77321_1737209303.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "rating": { "rate": 4.2, "count": 456 }
+    }
+    
+
+  ]
+}
+
+
+
+
+
