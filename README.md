@@ -1,3 +1,18 @@
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./Screenshot%201405-03-30%20at%2011.29.12%20in%20the%20morning.png)
+
+---
+
+### 🛒 Cart Page
+![Cart](./Screenshot%201405-03-30%20at%2011.29.23%20in%20the%20morning.png)
+
+---
+
+### 📦 Product View
+![Products](./Screenshot%201405-03-30%20at%2011.29.44%20in%20the%20morning.png)
+
 # 🛒 Store Redux Toolkit
 
 This is a **React-based Single Page Application (SPA)** for an online store.  
